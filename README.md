@@ -1,8 +1,8 @@
-# Fusion-wavelet-transform-GPU
+## GPU-FuWavTransf
 
 ## Descripción
 
-Fusion-wavelet-transform-GPU esta compuesto por dos Scripts desarrollados en Python, con el fin de realizar la fusión de imágenes de satélite de diferentes resoluciones espaciales y / o provenientes de diferentes sensores remotos mediante la transformada Wavelet. Estos Scripts se desarrollaron tanto en CPU como en procesamiento Heterogéneo más específicamente en GPU, haciendo uso de CUDA mediante Pycuda con el fin de hacer la integración con Python.
+GPU-FuWavTransf esta compuesto por dos Scripts desarrollados en Python, con el fin de realizar la fusión de imágenes de satélite de diferentes resoluciones espaciales y / o provenientes de diferentes sensores remotos mediante la transformada Wavelet. Estos Scripts se desarrollaron tanto en CPU como en procesamiento Heterogéneo más específicamente CPU/GPU, haciendo uso de CUDA mediante Pycuda con el fin de hacer la integración con Python.
 
 ## Manual de Usuario
 
