@@ -6,8 +6,8 @@ GPU-FuWavTransf esta compuesto por dos Scripts desarrollados en Python, con el f
 
 ## Manual de Usuario
 
-El manual de usuario realizado para esta aplicación, tiene como finalidad presentar la interacción paso a paso entre el usuario y los scripts. El manual de usuario se encuentra disponible en la siguiente dirección : https://github.com/dataScienceAndres29/fusion-wavelet-transform-GPU/Manuales/ManualUsuario.pdf
+El manual de usuario realizado para esta aplicación, tiene como finalidad presentar la interacción paso a paso entre el usuario y los scripts. El manual de usuario se encuentra disponible en la siguiente dirección : https://github.com/dataScienceAndres29/fusion-wavelet-transform-GPU/blob/master/Manuales/ManualUsuarioGPU-FuWavTransf.docx
 
 ## Manual Técnico
 
-El manual técnico realizado para esta aplicación, tiene como finalidad presentar el proceso de instalación con los componentes necesarios para poder ejecturar cada uno de los scripts. El manual técnico se encuentra disponible en la siguiente dirección : https://github.com/dataScienceAndres29/fusion-wavelet-transform-GPU/Manuales/ManualTecnico.pdf
+El manual técnico realizado para esta aplicación, tiene como finalidad presentar el proceso de instalación con los componentes necesarios para poder ejecturar cada uno de los scripts. El manual técnico se encuentra disponible en la siguiente dirección : https://github.com/dataScienceAndres29/fusion-wavelet-transform-GPU/blob/master/Manuales/ManualT%C3%A9cnicoGPU-FuWavTransf.docx
